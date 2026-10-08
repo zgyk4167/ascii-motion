@@ -6,6 +6,16 @@ You tell your agent what you would like to see. The skill has the agent ask thre
 
 This is an Agent Skill in the open [Agent Skills](https://agentskills.io/specification) format. Technique inspired by ascii.rest (bas3line/ascii, MIT), and the runtime is adapted from its code. See [Credit](#credit).
 
+## Demo
+
+https://github.com/user-attachments/assets/d6894e90-7da2-44d0-9bcc-95a18e6c6bee
+
+*Pink cosmos swaying in a morning breeze, drawn in coloured dots.*
+
+Made with ascii-motion. Piece: morning cosmos, a 12-second loop.\
+No third-party footage: every frame is rendered from the piece's own code.\
+Technique after [ascii.rest](https://ascii.rest) by bas3line (MIT).
+
 ## What you can make
 
 | Style | What it looks like | Good for | Example |
